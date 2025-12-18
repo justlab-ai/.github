@@ -12,8 +12,8 @@
 
 <br/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Slow Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%">
 
 <br/>
 
@@ -67,8 +67,8 @@ Native macOS Clinical Scribe App using Ollama + gpt-oss-20b
 
 <br/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Slow Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%">
 
 <br/>
 
@@ -141,8 +141,8 @@ Native macOS Clinical Scribe App using Ollama + gpt-oss-20b
 
 <br/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Slow Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%">
 
 <br/>
 
