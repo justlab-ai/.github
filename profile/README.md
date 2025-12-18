@@ -23,6 +23,12 @@ We're building tools and benchmarks around OpenAI's open-source 20B parameter mo
 | [**oss-20b-aci-bench**](https://github.com/justlab-ai/oss-20b-aci-bench) | Evaluation of OpenAI OSS models (gpt-oss-20b, gpt-oss-120b) on ACI-Bench clinical note generation benchmark | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [**oss-20b-med-macos**](https://github.com/justlab-ai/oss-20b-med-macos) | Native macOS Clinical Scribe App using Ollama + gpt-oss-20b | ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white) |
 
+### Team Resources
+
+| Repository | Description |
+|------------|-------------|
+| [**task**](https://github.com/justlab-ai/task) | Weekly task assignments and team progress tracking |
+
 ---
 
 ## Team
