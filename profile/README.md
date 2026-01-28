@@ -66,6 +66,7 @@
 | Repository | Last Commit | Activity |
 |------------|-------------|----------|
 | [oss-20b-med-macos](https://github.com/justlab-ai/oss-20b-med-macos) | ![Last Commit](https://img.shields.io/github/last-commit/justlab-ai/oss-20b-med-macos?style=flat-square) | ![Activity](https://img.shields.io/github/commit-activity/w/justlab-ai/oss-20b-med-macos?style=flat-square) |
+| [oss-20b-aci-bench](https://github.com/justlab-ai/oss-20b-aci-bench) | ![Last Commit](https://img.shields.io/github/last-commit/justlab-ai/oss-20b-aci-bench?style=flat-square) | ![Activity](https://img.shields.io/github/commit-activity/w/justlab-ai/oss-20b-aci-bench?style=flat-square) |
 | [task](https://github.com/justlab-ai/task) | ![Last Commit](https://img.shields.io/github/last-commit/justlab-ai/task?style=flat-square) | ![Activity](https://img.shields.io/github/commit-activity/w/justlab-ai/task?style=flat-square) |
 
 </div>
