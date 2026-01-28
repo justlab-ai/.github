@@ -3,10 +3,8 @@
 <!-- Custom Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=JustLab%20AI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Connecting%20AI%20Research%20to%20Viable%20Products&descSize=18&descAlignY=55" width="100%"/>
 
-<!-- Badges -->
-[![Organization](https://img.shields.io/badge/GitHub-justlab--ai-181717?style=for-the-badge&logo=github)](https://github.com/justlab-ai)
-[![Members](https://img.shields.io/badge/Team-6%20Members-blue?style=for-the-badge&logo=peopledotai&logoColor=white)](https://github.com/orgs/justlab-ai/people)
-[![Repos](https://img.shields.io/badge/Repositories-7-green?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/orgs/justlab-ai/repositories)
+<!-- Navigation Links -->
+[GitHub](https://github.com/justlab-ai) | [Team (6 Members)](https://github.com/orgs/justlab-ai/people) | [Repositories (7)](https://github.com/orgs/justlab-ai/repositories)
 
 </div>
 
@@ -25,9 +23,9 @@
 <tr>
 <td width="50%">
 
-### 📊 oss-20b-aci-bench
+### [📊 oss-20b-aci-bench](https://github.com/justlab-ai/oss-20b-aci-bench)
 
-Evaluation of OpenAI OSS models on ACI-Bench clinical note generation benchmark
+[Evaluation of OpenAI OSS models on ACI-Bench clinical note generation benchmark](https://github.com/justlab-ai/oss-20b-aci-bench)
 
 [![Repo](https://img.shields.io/badge/Repository-oss--20b--aci--bench-blue?style=flat-square&logo=github)](https://github.com/justlab-ai/oss-20b-aci-bench)
 [![Stars](https://img.shields.io/github/stars/justlab-ai/oss-20b-aci-bench?style=flat-square)](https://github.com/justlab-ai/oss-20b-aci-bench/stargazers)
@@ -39,9 +37,9 @@ Evaluation of OpenAI OSS models on ACI-Bench clinical note generation benchmark
 </td>
 <td width="50%">
 
-### 🏥 oss-20b-med-macos
+### [🏥 oss-20b-med-macos](https://github.com/justlab-ai/oss-20b-med-macos)
 
-Native macOS Clinical Scribe App using Ollama + gpt-oss-20b
+[Native macOS Clinical Scribe App using Ollama + gpt-oss-20b](https://github.com/justlab-ai/oss-20b-med-macos)
 
 [![Repo](https://img.shields.io/badge/Repository-oss--20b--med--macos-blue?style=flat-square&logo=github)](https://github.com/justlab-ai/oss-20b-med-macos)
 [![Stars](https://img.shields.io/github/stars/justlab-ai/oss-20b-med-macos?style=flat-square)](https://github.com/justlab-ai/oss-20b-med-macos/stargazers)
@@ -148,10 +146,12 @@ Native macOS Clinical Scribe App using Ollama + gpt-oss-20b
 
 <div align="center">
 
-### 📈 Activity
+### 📈 Latest Updates
 
-![GitHub Activity](https://img.shields.io/github/commit-activity/m/justlab-ai/oss-20b-aci-bench?style=flat-square&label=Benchmark%20Commits)
-![GitHub Activity](https://img.shields.io/github/commit-activity/m/justlab-ai/oss-20b-med-macos?style=flat-square&label=macOS%20App%20Commits)
+| Repository | Last Commit | Activity |
+|------------|-------------|----------|
+| [oss-20b-med-macos](https://github.com/justlab-ai/oss-20b-med-macos) | ![Last Commit](https://img.shields.io/github/last-commit/justlab-ai/oss-20b-med-macos?style=flat-square) | ![Activity](https://img.shields.io/github/commit-activity/w/justlab-ai/oss-20b-med-macos?style=flat-square) |
+| [task](https://github.com/justlab-ai/task) | ![Last Commit](https://img.shields.io/github/last-commit/justlab-ai/task?style=flat-square) | ![Activity](https://img.shields.io/github/commit-activity/w/justlab-ai/task?style=flat-square) |
 
 </div>
 
