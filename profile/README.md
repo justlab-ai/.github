@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Slow Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
 
 <br/>
 
@@ -54,19 +54,42 @@
 
 <br/>
 
-### 📋 Team Resources
+<!-- Slow Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
+
+<br/>
+
+## 📈 Latest Updates
 
 <div align="center">
 
-[![Task Board](https://img.shields.io/badge/📌_Task_Board-Weekly_Assignments_&_Progress-purple?style=for-the-badge)](https://github.com/justlab-ai/task)
-[![Last Update](https://img.shields.io/github/last-commit/justlab-ai/task?style=for-the-badge&label=Last%20Update)](https://github.com/justlab-ai/task)
+| Repository | Last Commit | Activity |
+|------------|-------------|----------|
+| [oss-20b-med-macos](https://github.com/justlab-ai/oss-20b-med-macos) | ![Last Commit](https://img.shields.io/github/last-commit/justlab-ai/oss-20b-med-macos?style=flat-square) | ![Activity](https://img.shields.io/github/commit-activity/w/justlab-ai/oss-20b-med-macos?style=flat-square) |
+| [task](https://github.com/justlab-ai/task) | ![Last Commit](https://img.shields.io/github/last-commit/justlab-ai/task?style=flat-square) | ![Activity](https://img.shields.io/github/commit-activity/w/justlab-ai/task?style=flat-square) |
 
 </div>
 
 <br/>
 
 <!-- Slow Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
+
+<br/>
+
+## 📋 Task Board
+
+<div align="center">
+
+[![Task Board](https://img.shields.io/badge/📌_Task_Board-Weekly_Assignments_&_Progress-purple?style=flat-square)](https://github.com/justlab-ai/task)
+[![Last Update](https://img.shields.io/github/last-commit/justlab-ai/task?style=flat-square&label=Last%20Update)](https://github.com/justlab-ai/task)
+
+</div>
+
+<br/>
+
+<!-- Slow Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
 
 <br/>
 
@@ -140,20 +163,7 @@
 <br/>
 
 <!-- Slow Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%">
-
-<br/>
-
-<div align="center">
-
-### 📈 Latest Updates
-
-| Repository | Last Commit | Activity |
-|------------|-------------|----------|
-| [oss-20b-med-macos](https://github.com/justlab-ai/oss-20b-med-macos) | ![Last Commit](https://img.shields.io/github/last-commit/justlab-ai/oss-20b-med-macos?style=flat-square) | ![Activity](https://img.shields.io/github/commit-activity/w/justlab-ai/oss-20b-med-macos?style=flat-square) |
-| [task](https://github.com/justlab-ai/task) | ![Last Commit](https://img.shields.io/github/last-commit/justlab-ai/task?style=flat-square) | ![Activity](https://img.shields.io/github/commit-activity/w/justlab-ai/task?style=flat-square) |
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
 
 <br/>
 
